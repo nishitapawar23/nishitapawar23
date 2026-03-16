@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Nishita Pawar
 
-<!--
-**nishitapawar23/nishitapawar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Computer Engineering Student at MMIT Pune  
+💻 Passionate about learning new technologies and building technical skills.
 
-Here are some ideas to get you started:
+## Interests
+☁️ Cloud Computing  
+🔐 Cybersecurity  
+🤖 Artificial Intelligence & Machine Learning  
+⛓️ Blockchain  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+🐍 Python  
+🧠 Data Structures & Algorithms  
+
+## Internships
+• AI/ML Internship  
+• Blockchain Internship  
+• AI Powered Cloud Engineer Internship  
+
+## Tools & Skills
+- C++
+- Python (Learning)
+- Git & GitHub
+- Basic Cloud Computing
+
+## Goal
+To build strong technical skills and explore different domains in computer science.
