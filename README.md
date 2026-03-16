@@ -23,3 +23,7 @@
 - Python (Learning)
 - Git & GitHub
 - Basic Cloud Computing
+
+## Connect with Me
+💼 LinkedIn:https://www.linkedin.com/in/nishita-pawar-95330329a/  
+📧 Email:21nnpawar180022gmail.com
