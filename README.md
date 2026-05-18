@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Nishita Pawar</h1>
 <h3 align="center">Computer Engineering Student | Tech Enthusiast | Learning & Building</h3>
 
 👩‍💻 About Me
